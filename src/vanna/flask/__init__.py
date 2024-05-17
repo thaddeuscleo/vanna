@@ -138,7 +138,7 @@ class VannaFlaskApp:
                     auth: AuthInterface = NoAuth(),
                     debug=True,
                     allow_llm_to_see_data=False,
-                    logo="https://img.vanna.ai/vanna-flask.svg",
+                    logo="https://raw.githubusercontent.com/thaddeuscleo/vanna/main/img/iq-company-logo.png",
                     title="Welcome to IQ Chat",
                     subtitle="Your AI-powered copilot for SQL queries.",
                     show_training_data=True,
