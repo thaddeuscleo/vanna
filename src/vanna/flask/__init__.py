@@ -139,7 +139,7 @@ class VannaFlaskApp:
                     debug=True,
                     allow_llm_to_see_data=False,
                     logo="https://img.vanna.ai/vanna-flask.svg",
-                    title="Welcome to Vanna.AI",
+                    title="Welcome to IQ Chat",
                     subtitle="Your AI-powered copilot for SQL queries.",
                     show_training_data=True,
                     suggested_questions=True,
