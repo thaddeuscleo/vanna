@@ -6,7 +6,7 @@ html_content = '''<!doctype html>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@350&display=swap" rel="stylesheet">
     <script src="https://cdn.plot.ly/plotly-latest.min.js" type="text/javascript"></script>
-    <title>Vanna.AI</title>
+    <title>IQCHAT</title>
     <script type="module" crossorigin src="/assets/index-4b99beea.js"></script>
     <link rel="stylesheet" href="/assets/index-76ef0799.css">
   </head>
